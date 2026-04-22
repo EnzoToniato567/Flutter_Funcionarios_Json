@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "nome": "Bruno Carvalho",
+    "cargo": "Atendente",
+    "salario": 1900.00,
+    "dataContratacao": "2023-02-10",
+    "avatar": "assets/avatars/avatar1.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Camila Mendes",
+    "cargo": "Gerente",
+    "salario": 3600.50,
+    "dataContratacao": "2021-09-05",
+    "avatar": "assets/avatars/avatar2.jpg"
+  },
+  {
+    "id": 3,
+    "nome": "Diego Fernandes",
+    "cargo": "Motorista",
+    "salario": 2300.00,
+    "dataContratacao": "2022-12-01",
+    "avatar": "assets/avatars/avatar3.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Larissa Nogueira",
+    "cargo": "Passadeira",
+    "salario": 1980.75,
+    "dataContratacao": "2024-01-18",
+    "avatar": "assets/avatars/avatar4.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Rafael Teixeira",
+    "cargo": "Lavador",
+    "salario": 2150.00,
+    "dataContratacao": "2020-06-22",
+    "avatar": "assets/avatars/avatar5.jpg"
+  },
+  {
+    "id": 6,
+    "nome": "Julio Cesar",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1720.40,
+    "dataContratacao": "2023-08-14",
+    "avatar": "assets/avatars/avatar6.jpg"
+  },
+  {
+    "id": 7,
+    "nome": "Vanessa Costa",
+    "cargo": "Atendente",
+    "salario": 1855.90,
+    "dataContratacao": "2022-10-30",
+    "avatar": "assets/avatars/avatar7.jpg"
+  },
+  {
+    "id": 8,
+    "nome": "Felipe Rocha",
+    "cargo": "Técnico de Manutenção",
+    "salario": 2900.00,
+    "dataContratacao": "2021-03-12",
+    "avatar": "assets/avatars/avatar8.jpg"
+  },
+  {
+    "id": 9,
+    "nome": "Tatiane Alves",
+    "cargo": "Passadeira",
+    "salario": 2025.00,
+    "dataContratacao": "2024-04-09",
+    "avatar": "assets/avatars/avatar9.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Gustavo Teixeira",
+    "cargo": "Auxiliar de Lavanderia",
+    "salario": 1780.80,
+    "dataContratacao": "2023-11-27",
+    "avatar": "assets/avatars/avatar10.jpg"
+  }
+]
